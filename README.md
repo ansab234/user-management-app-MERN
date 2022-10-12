@@ -3,6 +3,8 @@
 This project is about user management app build in MERN Stack and MUI as a
 frontend library.
 
+Also, this Project is deployed on Heroku.
+
 ## Description
 
 In this app, Recruiter can save the users information and mange their data like
