@@ -98,30 +98,8 @@ const Form = () => {
           />
         </FormGroup>
 
-        {/* <FormControl
-          sx={{
-            display: "inline",
-          }}
-        >
-          <TextField
-            sx={{
-              marginTop: "30px",
-              width: "40%",
-            }}
-            placeholder="Job Role: Other"
-            variant="outlined"
-          />
-          <TextField
-            sx={{
-              marginTop: "30px",
-              width: "40%",
-            }}
-            placeholder="Select Level of Employee"
-            variant="outlined"
-          />
-        </FormControl> */}
-        <Box sx={{ display: "flex", marginTop: "30px" }}>
-          <FormControl sx={{ width: "50%" }}>
+        <Box className="inputs">
+          <FormControl sx={{ width: "45%" }}>
             <InputLabel>Job Role: Other</InputLabel>
             <Select label="Job Role: Other">
               <MenuItem value={10}>Developer</MenuItem>
@@ -129,7 +107,7 @@ const Form = () => {
               <MenuItem value={30}>Graphic Designer</MenuItem>
             </Select>
           </FormControl>
-          <FormControl sx={{ width: "50%" }}>
+          <FormControl sx={{ width: "45%" }}>
             <InputLabel>Select Level of Employee</InputLabel>
             <Select label="Select Level of Employee">
               <MenuItem value={10}>20</MenuItem>

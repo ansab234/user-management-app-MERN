@@ -11,8 +11,6 @@ function App() {
         <Route path="/create-new-recruitment" element={<CreateRecruitment />} />
         <Route path="/update/:id" element={<UpdateData />} />
       </Routes>
-
-      {/* <UpdateData /> */}
     </>
   );
 }

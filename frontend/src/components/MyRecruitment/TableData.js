@@ -19,7 +19,6 @@ import avatar from "../../assets/avatar.png";
 import MuiAlert from "@mui/material/Alert";
 import { BsBellFill } from "react-icons/bs";
 import Image from "mui-image";
-// import "./TableData.css";
 import "../../components/CreateRecruitment/form.css";
 import { IoIosArrowDown } from "react-icons/io";
 

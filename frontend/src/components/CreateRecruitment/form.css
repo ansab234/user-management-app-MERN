@@ -32,3 +32,10 @@ body {
     width: 21px;
     height: 23px;
 }
+
+.inputs {
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-between;
+    align-items: center;
+}

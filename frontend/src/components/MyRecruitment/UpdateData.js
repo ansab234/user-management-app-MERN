@@ -3,6 +3,7 @@ import React, { useState } from "react";
 import MuiAlert from "@mui/material/Alert";
 import { useNavigate, useParams } from "react-router-dom";
 import axios from "axios";
+
 const baseUrl = "http://localhost:5000/api";
 
 const UpdateData = () => {
