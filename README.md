@@ -3,7 +3,7 @@ https://user-management-app-mern.herokuapp.com
 
 # User Management App
 
-This project is about user management app build in MERN Stack and MUI as a
+This project is about user management app built in MERN Stack and MUI as a
 frontend library.
 
 Also, this Project is deployed on Heroku.
@@ -11,7 +11,7 @@ Also, this Project is deployed on Heroku.
 ## Description
 
 In this app, Recruiter can save the users information and mange their data like
-update, delete data whenever it needs.
+add, update and delete data whenever it needs.
 
 # How to run this Project
 
