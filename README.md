@@ -19,7 +19,7 @@ start backend;
 Then go to the frontend folder and run commands,
 
 - `npm install` - to install dependencies
-- `npm start` - to start backend
+- `npm start` - to start frontend
 
 ## Author
 
